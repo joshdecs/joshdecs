@@ -31,7 +31,7 @@ I love building small, meaningful projects — tools that solve real problems I 
 ---
 
 ### 📫 Get in Touch
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/joshua-dechesne-984872306/))   
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshua-dechesne-984872306/)  
 - 📧 [Email me](mailto:joshua.dechesne@gmail.com)
 
 ---
