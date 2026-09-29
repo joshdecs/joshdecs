@@ -2,7 +2,7 @@
 
 I'm a **Software Engineering student at Polytechnique Montréal**, passionate about **AI development, software design**, and creating **practical digital solutions** that make everyday life easier.
 
-I love building small, meaningful projects — tools that solve real problems I encounter in my studies, my daily life, and my creative pursuits. Whether it’s managing my music library, automating repetitive tasks, or simplifying access to university resources, I’m always looking for ways to combine **creativity** and **engineering**.
+I love building small, meaningful projects, tools that solve real problems I encounter in my studies, my daily life, and my creative pursuits. Whether it’s managing my music library, automating repetitive tasks, or simplifying access to university resources, I’m always looking for ways to combine **creativity** and **engineering**.
 
 ---
 
